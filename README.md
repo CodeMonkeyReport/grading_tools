@@ -6,8 +6,7 @@ UnzipTool is used to help extract individual student files, TaskTool can be used
 
 # Requirements
 
-  pyunpack - python -m pip install pyunpack
-  patool - python -m pip install patool
+  pyunpack - python -m pip install pyunpack patool
 
 # Usage
  
